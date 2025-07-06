@@ -17,7 +17,7 @@ A simple and responsive Todo List application built with React ,tailwind , React
 ## 📸 Screenshots
 
 
-![Todo App Screenshot](screenshots/todo-screenshot.png)
+![Todo App Screenshot](screenshots/todo-screenshot.jpeg)
 
 
 ---
