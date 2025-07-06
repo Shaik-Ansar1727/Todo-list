@@ -6,11 +6,12 @@ A simple and responsive Todo List application built with React ,tailwind , React
 
 ## 🚀 Features
 
-- Add new tasks
-- Delete tasks
-- Mark tasks as completed
-- Responsive design
-- Built with React + Vite
+- Add new tasks 🖊️ 
+- Delete tasks 🗑️ 
+- Mark tasks as completed  ✔️
+- Responsive design 🖥️💻📱 
+- Built with React + Vite ![image](https://github.com/user-attachments/assets/803bc314-9b45-42ad-977f-595c7bdbcf31)
+
 
 ---
 
